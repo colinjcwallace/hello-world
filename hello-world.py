@@ -4,4 +4,4 @@ name = input("What is your name? ")
 clean = " ".join(name.split()).title()
 
 print(f"Hello, {clean}!")
-print(f"Hello, {name}!")
+
